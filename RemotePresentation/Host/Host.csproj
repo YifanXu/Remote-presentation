@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1B73059A-83DB-4CBD-84A1-B16DD8EB92BF}</ProjectGuid>
+    <ProjectGuid>{CAAD3610-4A44-4946-81E2-FD0B7272C4A1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>RemotePresentation</RootNamespace>
-    <AssemblyName>RemotePresentation</AssemblyName>
+    <RootNamespace>Host</RootNamespace>
+    <AssemblyName>Host</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

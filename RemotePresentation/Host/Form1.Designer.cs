@@ -1,4 +1,4 @@
-﻿namespace RemotePresentation
+﻿namespace Host
 {
     partial class Form1
     {

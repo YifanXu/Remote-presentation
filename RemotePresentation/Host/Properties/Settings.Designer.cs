@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace RemotePresentation.Properties
+namespace Host.Properties
 {
 
 
